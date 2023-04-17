@@ -14,5 +14,5 @@ Lorem markdownum insigne...
 {{< /details >}}
 
 
-![image](../images/image.jpg)
+![image](./images/image.jpg)
 
